@@ -18,27 +18,48 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Associate"
+  company = "LCS2, IIIT Delhi"
+  company_url = "http://lcs2.iiitd.edu.in/"
+  location = "Delhi"
+  date_start = "2020-07-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  <!-- Responsibilities include:
   
   * Analysing
   * Modelling
-  * Deploying
+  * Deploying -->
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Intern"
+  company = "LCS2, IIIT Delhi"
+  company_url = "http://lcs2.iiitd.edu.in/"
+  location = "Delhi"
+  date_start = "2020-05-01"
+  date_end = "2020-06-30"
+  description = """
+  """
+
+[[experience]]
+  title = "NSF-funded RIPS Scholar and Research Intern"
+  company = "IPAM, UCLA and Google, LA"
+  company_url = "http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2020"
+  location = "Los Angeles, USA"
+  date_start = "2019-06-24"
+  date_end = "2019-08-23"
+  description = """
+  """
+
+[[experience]]
+  title = "Independent Research Intern"
+  company = "Neuroscience Lab, IIT Delhi"
+  company_url = "http://ee.iitd.ernet.in/people/tgandhi.html"
+  location = "Delhi"
+  date_start = "2018-06-01"
+  date_end = "2018-12-30"
+  description = """
+  """
 
 +++
